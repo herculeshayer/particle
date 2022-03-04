@@ -1,14 +1,13 @@
-package com.example.ecommerce3;
+package articleclone.particleserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Ecommerce3Application {
+public class ParticleServerApplication {
 
     public static void main(String[] args) {
-
-        SpringApplication.run(Ecommerce3Application.class, args);
+        SpringApplication.run(ParticleServerApplication.class, args);
     }
 
 }

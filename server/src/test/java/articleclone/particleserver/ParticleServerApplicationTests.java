@@ -1,10 +1,10 @@
-package com.example.ecommerce3;
+package articleclone.particleserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Ecommerce3ApplicationTests {
+class ParticleServerApplicationTests {
 
     @Test
     void contextLoads() {
